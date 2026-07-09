@@ -1,8 +1,7 @@
 
 # The petpad
 
-- petpad is a 12-key macropad with a rotary encoder, built around the Seeed XIAO RP2040 microcontroller. It's perfect for daily shortcuts, volume control, media playback, and other quick actions.
----
+- petpad is a 12-key macropad with a rotary encoder, built around the Seeed XIAO RP2040 microcontroller. I will use it for daliy shortcut. like Copy etc.
 
 ## Renders 
 
